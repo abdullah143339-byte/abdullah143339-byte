@@ -16,6 +16,7 @@ Building AI-powered apps and web experiences.
 ![OOP](https://img.shields.io/badge/OOP-FF6B6B?style=flat&logo=datastore&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-049FD9?style=flat&logo=cisco&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![AI APIs](https://img.shields.io/badge/AI_APIs-FF6B6B?style=flat&logo=openai&logoColor=white)
 
 ---
 
