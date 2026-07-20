@@ -35,35 +35,35 @@
 <table align="center">
   <tr>
     <td align="center" width="140">
-      <img src="https://img.shields.io/badge/AIForge-7C3AED?style=for-the-badge&logo=robot&logoColor=white" />
+      <img src="https://img.shields.io/badge/AIForge-7C3AED?style=flat&logoColor=white" />
     </td>
     <td>AI-powered SaaS platform with chat, dashboards & AI tools</td>
     <td align="center"><a href="https://ai-saas-opal-alpha.vercel.app">Live</a></td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/DEFY_AI-3B82F6?style=for-the-badge&logo=chatbot&logoColor=white" />
+      <img src="https://img.shields.io/badge/DEFY_AI-3B82F6?style=flat&logoColor=white" />
     </td>
     <td>AI chatbot with image upload & smart responses</td>
     <td align="center"><a href="https://defy-chat.vercel.app">Live</a></td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Mafia_War_Game-DC2626?style=for-the-badge&logo=gamepad&logoColor=white" />
+      <img src="https://img.shields.io/badge/Mafia_War_Game-DC2626?style=flat&logoColor=white" />
     </td>
     <td>Object-oriented game built with Java</td>
     <td align="center">—</td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Portfolio-059669?style=for-the-badge&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/Portfolio-059669?style=flat&logoColor=white" />
     </td>
     <td>Personal portfolio built with React</td>
     <td align="center">—</td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/DLD_Radar-EA580C?style=for-the-badge&logo=radar&logoColor=white" />
+      <img src="https://img.shields.io/badge/DLD_Radar-EA580C?style=flat&logoColor=white" />
     </td>
     <td>Radar system that detects objects and measures distance</td>
     <td align="center">—</td>
