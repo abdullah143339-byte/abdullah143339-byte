@@ -25,7 +25,7 @@ Building AI-powered apps and web experiences.
 | Project | Description | Link |
 |---------|-------------|------|
 | **AIForge** | AI-powered SaaS platform with chat, dashboards & AI tools | [Live](https://ai-saas-opal-alpha.vercel.app) |
-| **DEFY AI** | AI chatbot with image upload & smart responses | [Live](https://defy-ai-chat.netlify.app/) |
+| **DEFY AI** | AI chatbot with image upload & smart responses | [Live](https://defy-chat.vercel.app) |
 | **Mafia War Game** | — | — |
 | **Portfolio Website** | Personal portfolio built with React | — |
 | **DLD Radar System** | — | — |
