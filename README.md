@@ -1,11 +1,11 @@
-<h1 align="center">Hey, I'm Muhammad Abdullah 👋</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCDQEtDw8w/giphy.gif" width="30px">
+  Hey, I'm Muhammad Abdullah
+  <img src="https://media.giphy.com/media/hvRJCDQEtDw8w/giphy.gif" width="30px">
+</h1>
 
 <p align="center">
-  <b>BS Artificial Intelligence Student | Web & AI Developer</b>
-</p>
-
-<p align="center">
-  <i>Building AI-powered apps and solving problems through code.</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=435&lines=BS+Artificial+Intelligence+Student;Web+%26+AI+Developer;Building+AI-powered+apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ---
 
-### Languages & Tools
+<h3 align="center">Languages & Tools</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
@@ -30,33 +30,43 @@
 
 ---
 
-### Projects
+<h3 align="center">Projects</h3>
 
-<table>
+<table align="center">
   <tr>
-    <td><b>AIForge</b></td>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/AIForge-7C3AED?style=for-the-badge&logo=robot&logoColor=white" />
+    </td>
     <td>AI-powered SaaS platform with chat, dashboards & AI tools</td>
-    <td><a href="https://ai-saas-opal-alpha.vercel.app">Live</a></td>
+    <td align="center"><a href="https://ai-saas-opal-alpha.vercel.app">Live</a></td>
   </tr>
   <tr>
-    <td><b>DEFY AI</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/DEFY_AI-3B82F6?style=for-the-badge&logo=chatbot&logoColor=white" />
+    </td>
     <td>AI chatbot with image upload & smart responses</td>
-    <td><a href="https://defy-chat.vercel.app">Live</a></td>
+    <td align="center"><a href="https://defy-chat.vercel.app">Live</a></td>
   </tr>
   <tr>
-    <td><b>Mafia War Game</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Mafia_War_Game-DC2626?style=for-the-badge&logo=gamepad&logoColor=white" />
+    </td>
     <td>Object-oriented game built with Java</td>
-    <td>—</td>
+    <td align="center">—</td>
   </tr>
   <tr>
-    <td><b>Portfolio Website</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Portfolio-059669?style=for-the-badge&logo=react&logoColor=white" />
+    </td>
     <td>Personal portfolio built with React</td>
-    <td>—</td>
+    <td align="center">—</td>
   </tr>
   <tr>
-    <td><b>DLD Radar System</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/DLD_Radar-EA580C?style=for-the-badge&logo=radar&logoColor=white" />
+    </td>
     <td>Radar system that detects objects and measures distance</td>
-    <td>—</td>
+    <td align="center">—</td>
   </tr>
 </table>
 
