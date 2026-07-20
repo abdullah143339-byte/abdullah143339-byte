@@ -1,21 +1,26 @@
 # Muhammad Abdullah
 
-**BS Artificial Intelligence Student | Full-Stack Developer**
+**BS Artificial Intelligence Student | Web & AI Developer**
 
-I build AI-powered web applications and 3D experiences.
+Building AI-powered apps and web experiences.
 
 ---
 
-### Tech Stack
+### Skills
 
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Three.js` `Node.js` `Prisma` `PostgreSQL` `Supabase` `OpenAI` `Python` `Java` `C++`
+`C` `C++` `Java` `Python` `JavaScript` `TypeScript` `HTML` `CSS` `React` `Next.js` `Tailwind CSS` `MySQL` `OOP` `Git & GitHub` `Firebase` `Supabase` `Cisco Packet Tracer` `AI APIs (OpenAI, Gemini, Groq)` `Dify` `Ollama` `API Integration`
 
 ---
 
 ### Projects
 
-- **[AI SaaS Platform](https://github.com/abdullah143339-byte/ai-saas)** - AI-powered SaaS with document processing & chat using OpenAI/Gemini
-- **[IGI 2 Game](https://github.com/abdullah143339-byte/igi2-game)** - 3D browser game built with Three.js & TypeScript
+| Project | Description | Link |
+|---------|-------------|------|
+| **AIForge** | AI-powered SaaS platform with chat, dashboards & AI tools | [Live](https://ai-saas-opal-alpha.vercel.app) |
+| **DEFY AI** | AI chatbot with image upload & smart responses | [Live](https://defy-ai-chat.netlify.app/) |
+| **Mafia War Game** | — | — |
+| **Portfolio Website** | Personal portfolio built with React | — |
+| **DLD Radar System** | — | — |
 
 ---
 
