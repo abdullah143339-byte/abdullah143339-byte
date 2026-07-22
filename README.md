@@ -59,7 +59,7 @@
       <img src="https://img.shields.io/badge/Portfolio-059669?style=flat&logoColor=white" />
     </td>
     <td>Personal portfolio built with React</td>
-    <td align="center">—</td>
+    <td align="center"><a href="https://abdullah-portfolio-bay-delta.vercel.app">Live</a></td>
   </tr>
   <tr>
     <td align="center">
