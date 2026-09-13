@@ -2,7 +2,9 @@
 
 # 👋 Hi, I'm Muhammad Abdullah
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=550&height=100&lines=AI+Student;Building+intelligent+assistants+%26+automation;Always+learning%2C+always+shipping" alt="Typing SVG" />
+**Student of BS Artificial Intelligence**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=550&height=100&lines=Building+intelligent+assistants;Turning+ideas+into+working+products;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
 <br/>
 
@@ -17,10 +19,9 @@
 
 ### 🧠 About Me
 
-AI student building real-time AI assistants and intelligent automation.
+Student of BS Artificial Intelligence — building real-time AI assistants and intelligent automation.
 
-- 🎓 BS Artificial Intelligence student
-- 🛠️ Python · Java · C++ · React · Next.js
+- 🛠️ Java · Python · C · C++ · MySQL · API Integration
 - 🌱 Always learning · always shipping
 - 💡 Passionate about turning ideas into working products
 
@@ -29,7 +30,11 @@ AI student building real-time AI assistants and intelligent automation.
 ### 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cplusplus,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,mysql" />
+<br/><br/>
+<img src="https://img.shields.io/badge/OOP-6F42C1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/API%20Integration-58A6FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
 
 ---
