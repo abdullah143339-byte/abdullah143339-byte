@@ -8,7 +8,6 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdullah143339@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/foji_abdullah)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah143339-byte)
 [![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=flat-square&logo=github&logoColor=white)](https://abdullah-portfolio-bay-delta.vercel.app)
 
 </div>
