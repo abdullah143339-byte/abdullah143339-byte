@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Muhammad Abdullah
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=550&height=100&lines=AI+%26+Full-Stack+Developer;Building+intelligent+systems+with+Python+%26+React;Always+learning%2C+always+shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=550&height=100&lines=AI+Student;Building+intelligent+assistants+%26+automation;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
 <br/>
 
@@ -17,10 +17,10 @@
 
 ### 🧠 About Me
 
-I build **real-time AI assistants**, **SaaS platforms** and **intelligent automation tools** — from Python backends to React frontends.
+AI student building real-time AI assistants and intelligent automation.
 
 - 🎓 BS Artificial Intelligence student
-- 🛠️ Python · Gemini API · Playwright · React · Next.js
+- 🛠️ Python · Java · C++ · React · Next.js
 - 🌱 Always learning · always shipping
 - 💡 Passionate about turning ideas into working products
 
@@ -29,7 +29,7 @@ I build **real-time AI assistants**, **SaaS platforms** and **intelligent automa
 ### 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,git,linux,docker,postgres" />
+<img src="https://skillicons.dev/icons?i=python,java,cplusplus,react,nextjs" />
 </div>
 
 ---
@@ -40,9 +40,10 @@ I build **real-time AI assistants**, **SaaS platforms** and **intelligent automa
 
 | Project | Description | Links |
 |:-------:|:------------|:-----:|
-| **Jarvis** | Voice AI assistant for desktop — controls browser, apps, YouTube in real-time | [![View](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdullah143339-byte/Jarvis) [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://jarvis-live-liard.vercel.app) |
+| **Jarvis** | Voice AI assistant for desktop — controls browser, apps, YouTube in real-time | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdullah143339-byte/Jarvis) |
 | **ZARYA** | AI-powered social platform with chat, voice & media intelligence | [![View](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdullah143339-byte/zarya) [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://futureai-gamma.vercel.app) |
 | **AIForge** | AI SaaS platform — chat, dashboards & intelligent tools | [![View](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdullah143339-byte/ai-saas) [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://ai-saas-opal-alpha.vercel.app) |
+| **DEFY AI** | AI chatbot — fast & free conversations, anywhere | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://defy-chat.vercel.app) |
 | **Portfolio** | Developer portfolio — projects, skills & contact | [![View](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdullah143339-byte/Abdullah-portfolio) [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://abdullah-portfolio-bay-delta.vercel.app) |
 
 </div>
