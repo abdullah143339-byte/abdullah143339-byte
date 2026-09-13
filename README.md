@@ -1,82 +1,80 @@
-<h1 align="center">Muhammad Abdullah</h1>
-<h3 align="center">AI & Full-Stack Developer</h3>
+<div align="center">
 
-<p align="center">
-  <em>Building real-time AI assistants, SaaS platforms & intelligent automation.</em><br>
-  Python &middot; Gemini API &middot; React &middot; Next.js &middot; Java &middot; C++
-</p>
+# 👋 Hi, I'm Muhammad Abdullah
 
-<p align="center">
-  <a href="https://github.com/abdullah143339-byte">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:abdullah143339@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/foji_abdullah">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=abdullah143339-byte&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=550&height=100&lines=AI+%26+Full-Stack+Developer;Building+intelligent+systems+with+Python+%26+React;Always+learning%2C+always+shipping" alt="Typing SVG" />
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdullah143339@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/foji_abdullah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah143339-byte)
+[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=flat-square&logo=github&logoColor=white)](https://abdullah143339-byte.github.io/Jarvis/)
+
+</div>
 
 ---
 
-## Languages & Tools
+### 🧠 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
+I build **real-time AI assistants**, **SaaS platforms** and **intelligent automation tools** — from Python backends to React frontends.
+
+- 🎓 BS Artificial Intelligence student
+- 🛠️ Python · Gemini API · Playwright · React · Next.js
+- 🌱 Always learning · always shipping
+- 💡 Passionate about turning ideas into working products
 
 ---
 
-## Featured Projects
+### 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="150"><b>Jarvis AI Agent</b></td>
-    <td>Real-time voice AI assistant — Gemini Live API, browser control, YouTube, vision, persistent memory & a plugin system</td>
-    <td align="center"><a href="https://github.com/abdullah143339-byte/Jarvis">View</a></td>
-  </tr>
-  <tr>
-    <td align="center"><b>ZARYA</b></td>
-    <td>AI-powered social platform with chat, AI tools & communication — Next.js full-stack</td>
-    <td align="center"><a href="https://github.com/abdullah143339-byte/zarya">View</a> &middot; <a href="https://futureai-gamma.vercel.app">Live</a></td>
-  </tr>
-  <tr>
-    <td align="center"><b>AIForge</b></td>
-    <td>AI-powered SaaS platform with chat, dashboards & intelligent tools</td>
-    <td align="center"><a href="https://github.com/abdullah143339-byte/ai-saas">View</a> &middot; <a href="https://ai-saas-opal-alpha.vercel.app">Live</a></td>
-  </tr>
-  <tr>
-    <td align="center"><b>DEFY AI</b></td>
-    <td>AI chatbot with image upload & smart responses</td>
-    <td align="center"><a href="https://defy-chat.vercel.app">Live</a></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Portfolio</b></td>
-    <td>Personal developer portfolio — React Three Fiber + GSAP</td>
-    <td align="center"><a href="https://github.com/abdullah143339-byte/Abdullah-portfolio">View</a> &middot; <a href="https://abdullah-portfolio-bay-delta.vercel.app">Live</a></td>
-  </tr>
-</table>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,git,linux,docker,postgres" />
+</div>
 
 ---
 
-<h3 align="center">What I Work On</h3>
+### 📁 Featured Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=flat" />
-  <img src="https://img.shields.io/badge/Voice_AI-2563EB?style=flat" />
-  <img src="https://img.shields.io/badge/SaaS-059669?style=flat" />
-  <img src="https://img.shields.io/badge/Automation-DC2626?style=flat" />
-  <img src="https://img.shields.io/badge/Full__Stack-F59E0B?style=flat" />
-  <img src="https://img.shields.io/badge/Generative_AI-9333EA?style=flat" />
-</p>
+<div align="center">
+
+| Project | Description | Links |
+|:-------:|:------------|:-----:|
+| **Jarvis** | Voice AI assistant for desktop — controls browser, apps, YouTube in real-time | [![View](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdullah143339-byte/Jarvis) [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://jarvis-live-liard.vercel.app) |
+| **ZARYA** | AI-powered social platform with chat, voice & media intelligence | [![View](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdullah143339-byte/zarya) [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://futureai-gamma.vercel.app) |
+| **AIForge** | AI SaaS platform — chat, dashboards & intelligent tools | [![View](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdullah143339-byte/ai-saas) [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://ai-saas-opal-alpha.vercel.app) |
+| **Portfolio** | Developer portfolio — projects, skills & contact | [![View](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdullah143339-byte/Abdullah-portfolio) [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://abdullah-portfolio-bay-delta.vercel.app) |
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullah143339-byte&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdullah143339-byte&theme=dracula&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah143339-byte&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah143339@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/foji_abdullah)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullah143339-byte)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Built with 💙 by Muhammad Abdullah · © 2025</sub>
+</div>
