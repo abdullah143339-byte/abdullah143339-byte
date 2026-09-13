@@ -4,14 +4,14 @@
 
 **Student of BS Artificial Intelligence**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=550&height=100&lines=Building+intelligent+assistants;Turning+ideas+into+working+products;Always+learning%2C+always+shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=550&height=50&lines=Always+learning%2C+always+shipping" alt="Typing SVG" />
 
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdullah143339@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/foji_abdullah)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah143339-byte)
-[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=flat-square&logo=github&logoColor=white)](https://abdullah143339-byte.github.io/Jarvis/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=flat-square&logo=github&logoColor=white)](https://abdullah-portfolio-bay-delta.vercel.app)
 
 </div>
 
