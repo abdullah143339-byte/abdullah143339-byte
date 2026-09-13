@@ -4,7 +4,7 @@
 
 **Student of BS Artificial Intelligence**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=550&height=50&lines=Always+learning%2C+always+shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=550&height=50&lines=Student+of+BS+Artificial+Intelligence;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
 <br/>
 
